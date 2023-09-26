@@ -18,11 +18,11 @@
     <img src="https://gidigi.com/cdn/love.gif">
 </p>
 
-<a href="https://github-readme-stats.vercel.app/api?username=lebigdonald&count_private=true&show_icons=true&theme=chartreuse-dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lebigdonald&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<a href="https://github-readme-stats.vercel.app/api?username=lebigdonald&count_private=true&show_icons=true&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lebigdonald&bg_color=000000" />
 </a>
 <a href="https://github.com/lebigdonald">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebigdonald&bg_color=30,e96443,904e95&title_color=ff&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebigdonald&bg_color=000000" />
 </a>
 
 <hr>
