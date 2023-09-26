@@ -1,6 +1,11 @@
 👨🏻‍💻  <strong>&nbsp;&nbsp;About Me</strong>
 
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
+<!--
+<p align='center'>
+    <img src="https://gidigi.com/cdn/love.gif">
+</p>
+-->
 
 👋  &nbsp;&nbsp; Hi, I’m @lebigdonald<br>
 💡  &nbsp;&nbsp; I like to explore new technologies and develop software solutions and quick hacks.<br>
@@ -13,10 +18,6 @@
 <hr>
 
 🤝🏻  <strong>&nbsp;&nbsp; Connect with Me</strong>
-
-<p align='center'>
-    <img src="https://gidigi.com/cdn/love.gif">
-</p>
 
 <a href="https://github-readme-stats.vercel.app/api?username=lebigdonald&count_private=true&show_icons=true&theme=dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lebigdonald&bg_color=000000" />
