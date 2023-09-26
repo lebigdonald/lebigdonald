@@ -1,4 +1,4 @@
-## 👨🏻‍💻 About Me
+## 👨🏻‍ About Me
 
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="lebigdonald" />
 
@@ -9,7 +9,8 @@ Instructor, with demonstrated skills in designing structure, developing, and imp
 solutions.<br>
 💬 Feel free to reach out to me for any opportunity full-time or part-time.<br>
 📫 How to reach me at <a href="mailto:nkengfack96@gmail.com">nkengfack96@gmail.com</a><br>
-📱   <a href="tel:+237671319673">+237671319673</a> / <a href="tel:+237697657064">+237697657064</a> I'll respond as soon
+📱   <a href="tel:+237671319673">+237671319673</a> / <a href="https://wa.me/+237697657064" target="_blank">
++237697657064</a> I'll respond as soon
 as I can.<br>
 🌐   https://lebigdonald.github.io/portfolio/
 
