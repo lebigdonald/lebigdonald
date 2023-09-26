@@ -7,11 +7,11 @@
 </p>
 -->
 
-👋  &nbsp;&nbsp; Hi, I’m @lebigdonald<br>
+👋  &nbsp;&nbsp; Hi, I’m <a href="https://github.com/lebigdonald">@lebigdonald</a><br>
 💡  &nbsp;&nbsp; I like to explore new technologies and develop software solutions and quick hacks.<br>
 👀  &nbsp;&nbsp; I’m interested in Software Engineer, Hardware Maintainer, Web and Mobile Applications Developer, IT Consultant, and Instructor, with demonstrated skills in designing structure, developing, and implementing applications and solutions.<br>
 💬  &nbsp;&nbsp; Feel free to reach out to me for any opportunity full-time or part-time.<br>
-📫  &nbsp;&nbsp; How to reach me at nkengfack96@gmail.com<br>
+📫  &nbsp;&nbsp; How to reach me at <a href="mailto:nkengfack96@gmail.com">nkengfack96@gmail.com</a><br>
 📱  &nbsp;&nbsp; <a href="tel:+237671319673">+237671319673</a> / <a href="tel:+237697657064">+237697657064</a> I'll respond as soon as I can.<br>
 🌐  &nbsp;&nbsp; https://lebigdonald.github.io/portfolio/
 
