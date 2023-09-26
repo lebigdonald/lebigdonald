@@ -9,10 +9,9 @@ Instructor, with demonstrated skills in designing structure, developing, and imp
 solutions.<br>
 💬 Feel free to reach out to me for any opportunity full-time or part-time.<br>
 📫 How to reach me at <a href="mailto:nkengfack96@gmail.com">nkengfack96@gmail.com</a><br>
-📱   <a href="tel:+237671319673">+237671319673</a> / <a href="https://wa.me/+237697657064" target="_blank">
-+237697657064</a> I'll respond as soon
-as I can.<br>
-🌐   <a href="https://lebigdonald.github.io/portfolio/">https://lebigdonald.com/</a>
+📱  <a href="tel:+237671319673">+237671319673</a> | <a href="https://wa.me/+237697657064" target="_blank">
++237697657064</a> I'll respond as soon aas I can.<br>
+🌐   <a href="https://lebigdonald.github.io/portfolio/">https://lebigdonald.com</a>
 
 ## 👨🏻‍💻 Programming Tools
 
