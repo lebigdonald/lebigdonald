@@ -12,7 +12,7 @@ solutions.<br>
 📱   <a href="tel:+237671319673">+237671319673</a> / <a href="https://wa.me/+237697657064" target="_blank">
 +237697657064</a> I'll respond as soon
 as I can.<br>
-🌐   https://lebigdonald.github.io/portfolio/
+🌐   <a href="https://lebigdonald.github.io/portfolio/">https://lebigdonald.com/</a>
 
 ## 👨🏻‍💻 Programming Tools
 
