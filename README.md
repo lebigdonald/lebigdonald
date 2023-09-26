@@ -14,23 +14,44 @@
 
 🤝🏻  <strong>&nbsp;&nbsp; Connect with Me</strong>
 
+<p align='center'>
+    <img src="https://gidigi.com/cdn/love.gif">
+</p>
+
+<a href="https://github-readme-stats.vercel.app/api?username=m0rp43us&count_private=true&show_icons=true&theme=chartreuse-dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=m0rp43us&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+<a href="https://github.com/m0rp43us">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0rp43us&bg_color=30,e96443,904e95&title_color=ff&text_color=fff" />
+</a>
+
 <hr>
 
-<!---
-whoAmI := map[string]interface{}{
-	"name":            "Donald NKENGFACK",
-	"profession":      "Software Engineer, Hardware Maintainer, Web and Mobile Applications Developer, IT Consultant and Instructor",
-	"location":        "Cameroon",
-	"currentPosition": "Software Engineer Consultant at TAMCO Technology and Senior IT Consultant at MATS-TECH BI",
-	"languages":       []string{"Javascript", "Typescript", "PHP", "Java", "Python"},
-	"frameworks":      []string{"AngularJS", "ReactJS", "Laravel", "Symfony", "CakePHP", "Boostrap", "VueJS"},
-	"databases":       []string{"SQLserver", "MySQL"},
-	"tools":           []string{"Docker", "Git"},
-	"systems":         []string{"Windows", "MacOs", "Linux"},
-}
---->
+### Languages
 
-<!---
-lebigdonald/lebigdonald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JS6-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+
+### Technologies
+
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
+![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony)
+![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)
+![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
+![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
+
+<hr>
+
+<b>🔥 Github Streaks</b>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lebigdonald&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="m0rp43us" /></p>
