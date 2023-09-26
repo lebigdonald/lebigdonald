@@ -26,11 +26,7 @@
 <a href="https://github.com/lebigdonald">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=lebigdonald&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="lebigdonald" />
 </a>
-<!--
-<p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebigdonald&bg_color=0D1117" />
-</p>
--->
+
 <hr>
 
 ### Languages
@@ -60,12 +56,3 @@
 ### Most used Languages (Public Repositories)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebigdonald&bg_color=0D1117" />
-
-<!--
-<hr>
-
-<b>🔥 Github Streaks</b>
-<p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=lebigdonald&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="lebigdonald" />
-</p>
--->
