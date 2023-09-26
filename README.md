@@ -19,14 +19,18 @@
 
 🤝🏻  <strong>&nbsp;&nbsp; Connect with Me</strong>
 
-<a href="https://github-readme-stats.vercel.app/api?username=lebigdonald&count_private=true&show_icons=true&theme=dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lebigdonald" />
+<a href="https://github-readme-stats.vercel.app/api?username=lebigdonald&count_private=true&show_icons=true&theme=black-ice">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lebigdonald&bg_color=0D1117" />
+</a>
+
+<a href="https://github.com/lebigdonald">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=lebigdonald&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="lebigdonald" />
 </a>
 
 <br>
 
-<a href="https://github.com/lebigdonald">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebigdonald" />
+<a href="https://github.com/lebigdonald" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebigdonald&bg_color=0D1117" />
 </a>
 
 <hr>
@@ -54,8 +58,11 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
-
+<!--
 <hr>
 
 <b>🔥 Github Streaks</b>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lebigdonald&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="lebigdonald" /></p>
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=lebigdonald&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="lebigdonald" />
+</p>
+-->
