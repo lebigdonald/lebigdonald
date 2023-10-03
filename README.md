@@ -44,8 +44,6 @@ solutions.<br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebigdonald&bg_color=0D1117" alt="lebigdonald" />
 </p>
 <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=lebigdonald&count_private=true&show_icons=true&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-      <img src="https://github-readme-stats.vercel.app/api?username=lebigdonald&bg_color=0D1117" alt="lebigdonald" />
-    </a>
+    ![Shivam Mathur Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lebigdonald&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=10)
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=lebigdonald&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="lebigdonald" />
 </p>
