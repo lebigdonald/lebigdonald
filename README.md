@@ -8,10 +8,14 @@
 Instructor, with demonstrated skills in designing structure, developing, and implementing applications and
 solutions.<br>
 💬 Feel free to reach out to me for any opportunity full-time or part-time.<br>
-📫 How to reach me at <a href="mailto:nkengfack96@gmail.com">nkengfack96@gmail.com</a><br>
-📱  <a href="tel:+237671319673">+237671319673</a> | <a href="https://wa.me/+237697657064" target="_blank">
-+237697657064</a> I'll respond as soon aas I can.<br>
-🌐   <a href="https://lebigdonald.github.io/portfolio/">Portfolio</a>
+📫 How to reach me
+by  [![Email](https://img.shields.io/badge/Email-EA4335?logo=Gmail&logoColor=white)](mailto:nkengfack96@gmail.com)<br>
+📱  <a href="tel:+237671319673">
++237671319673</a> | [![Whatsapp](https://img.shields.io/badge/Whatsapp-0077B5?logo=whatsapp&logoColor=green)](https://wa.me/+237697657064)
+I'll respond as soon aas I can.<br>
+🌐 Follow me
+on [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/donald-nkengfack/)
+or visit website <a href="https://lebigdonald.github.io/portfolio/">Portfolio</a>
 
 ## 👨🏻‍💻 Programming Tools
 
@@ -41,9 +45,11 @@ solutions.<br>
 ## 🔥 Github Streaks
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebigdonald&bg_color=0D1117" alt="lebigdonald" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebigdonald&count_private=true&bg_color=0D1117&layout=compact&icon_color=805AD5&text_color=718096&langs_count=10&hide_border=true" alt="lebigdonald" />
 </p>
 <p align="center">
-    ![Shivam Mathur Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lebigdonald&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=10)
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lebigdonald&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="lebigdonald" />
+    <a href="https://github-readme-stats.vercel.app/api?username=lebigdonald&count_private=true&show_icons=true&theme=black-ice&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api?username=lebigdonald&bg_color=0D1117" alt="lebigdonald" />
+    </a>    
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lebigdonald&theme=black-ice&count_private=true&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="lebigdonald" />
 </p>
