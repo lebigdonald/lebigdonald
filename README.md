@@ -11,7 +11,7 @@ solutions.<br>
 📫 How to reach me
 by  [![Email](https://img.shields.io/badge/Email-EA4335?logo=Gmail&logoColor=white)](mailto:nkengfack96@gmail.com)<br>
 📱  <a href="tel:+237671319673">
-+237671319673</a> | [![Whatsapp](https://img.shields.io/badge/Whatsapp-0077B5?logo=whatsapp&logoColor=green)](https://wa.me/+237697657064)
++237697657064</a> | [![Whatsapp](https://img.shields.io/badge/Whatsapp-0077B5?logo=whatsapp&logoColor=green)](https://wa.me/+237697657064)
 I'll respond as soon aas I can.<br>
 🌐 Follow me
 on [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/donald-nkengfack/)
