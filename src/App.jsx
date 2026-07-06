@@ -9,6 +9,7 @@ import Work from "./pages/Work";
 import Skills from "./pages/Skills";
 import Contact from "./pages/Contact";
 import {Analytics} from "@vercel/analytics/react";
+import {SpeedInsights} from "@vercel/speed-insights/react";
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
       </Router>
       <Toaster />
       <Analytics />
+      <SpeedInsights />
     </QueryClientProvider>
   );
 }
