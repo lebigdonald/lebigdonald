@@ -1,0 +1,65 @@
+{
+  "name": "NGUIMFACK Donald",
+  "short_name": "ND",
+  "description": "NGUIMFACK Donald Portfolio",
+  "lang": "en-US",
+  "start_url": "/",
+  "background_color": "#fff",
+  "theme_color": "#000",
+  "display": "standalone",
+  "orientation": "any",
+  "status_bar": "black",
+  "icons": [
+    {
+      "src": "./favicon-16x16.png",
+      "type": "image/png",
+      "sizes": "16x16",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "152x152",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./android-chrome-384x384.png",
+      "type": "image/png",
+      "sizes": "384x384",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "NGUIMFACK Donald",
+      "description": "NGUIMFACK Donald Portfolio",
+      "url": "/",
+      "icons": [
+        {
+          "src": "./apple-touch-icon.png",
+          "type": "image/png",
+          "sizes": "128x128",
+          "purpose": "any maskable"
+        }
+      ]
+    }
+  ]
+}
